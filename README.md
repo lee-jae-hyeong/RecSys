@@ -10,3 +10,7 @@
 ## 6. cHR(cumulative Hit Rate)
 ## 7. rHR(ratin Hit Rate) : 평점 적중률
 ## 8. RMSC
+
+# 추천 시스템 교차 검증
+## 1. K-Fold Cross-Vaildation
+## 2. Leave-One-Out Cross-Validation
